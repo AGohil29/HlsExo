@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HlsExo</string>
+    <string name="txt_play">Play</string>
+    <string name="txt_pause">Pause</string>
+</resources>
